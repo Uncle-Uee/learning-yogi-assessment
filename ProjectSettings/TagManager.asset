@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Obstacles
+  - Items
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -40,4 +42,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 116390237
+    locked: 0
+  - name: Middleground
+    uniqueID: 3600360993
+    locked: 0
+  - name: Foreground
+    uniqueID: 2822501571
+    locked: 0
+  - name: Ground
+    uniqueID: 2473759131
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2436961331
+    locked: 0
+  - name: Items
+    uniqueID: 1044974065
+    locked: 0
+  - name: Player
+    uniqueID: 130867155
     locked: 0
