@@ -1,0 +1,7 @@
+{
+	"Creator" : "Ilteam",
+	"Links" : [
+		"https://lhteam.itch.io/",
+		"https://twitter.com/LazyHamsters"
+	]
+}
