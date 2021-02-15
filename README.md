@@ -1,2 +1,2 @@
 # learning-yogi-assessment
-Learning Yogi Assessment
+A Simple Endless Runner Game made in Unity
